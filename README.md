@@ -1,24 +1,24 @@
-<IMG对齐="右" src="https://count.getloli.com/get/@:fomalhaut1998?theme=moebooru">
+<img align="right" src="https://count.getloli.com/get/@:fomalhaut1998?theme=moebooru">
 
-##一只低调的猕猴桃-赫菲钦🥝<IMGsrc="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="嗨" 宽度="42" /> 
+##一只低调的猕猴桃-chfychin🥝<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 
 ### 自我介绍
 
-<div><IMG对齐="右" alt="GIF" src="https://z4a.net/images/2023/08/14/push.webp" 宽度="300" 高度="100%" /></div>
+<div><img align="right" alt="GIF" src="https://z4a.net/images/2023/08/14/push.webp" width="300" height="100%" /></div>
 
--大家好，我是🥝，来自河南
+- 大家好，我是🥝，来自河南
 - 目前是一名计算机在读本科生
--对数据结构与算法、前端感兴趣
--欢迎光临我的GitHub  🍧
+- 对数据结构与算法、前端感兴趣
+- 欢迎光临我的GitHub  🍧
 
 
 ### 社交主页
 
 
-- <一个href="https://www.chfychin.cn"><IMG高度="22" 宽度="22" src="https://www.chfychin.cn/favicon.ico"></一个>：个人网站
-- <一个href="https://space.bilibili.com/3461572947085662"><IMG高度="22" 宽度="22" src="https://www.bilibili.com/favicon.ico"></一个>：Bilibili主页
-- <一个href="https://leetcode.cn/u/fomalhaut1998/"><IMG高度="22" 宽度="22" src="https://leetcode.cn/favicon.ico"></一个>：LeetCode主页
-- <一个href="https://codeforces.com/profile/chfychin/"><IMG高度="22" 宽度="22" src="https://mark.chfychin.cn/mark_bed/codeforces.png"></一个>：Codepforce主页
+- <a href="https://www.chfychin.cn"><img height="22" width="22" src="https://www.chfychin.cn/favicon.ico"></a>：个人网站
+- <a href="https://space.bilibili.com/3461572947085662"><img height="22" width="22" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页
+- <a href="https://leetcode.cn/u/xing-ke-di/"><img height="22" width="22" src="https://leetcode.cn/favicon.ico"></a>：LeetCode主页
+- <a href="https://codeforces.com/profile/chfychin/"><img height="22" width="22" src="https://mark.chfychin.cn/mark_bed/codeforces.png"></a>：Codepforce主页
 
 ### 主页访问量统计
 
