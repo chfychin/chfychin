@@ -44,6 +44,7 @@
 ### 编程语言
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chfychin&layout=compact&theme=tokyonight)
 
+<!--[<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chfychin&layout=compact" height=145/></span><span><img src="https://github-readme-stats.vercel.app/api?username=chfychin&count_private=true&show_icons=true" height=145/></span>](https://blog.i-xiao.space/)-->
 ### Github 状态图
 
 [![](https://activity-graph.herokuapp.com/graph?username=chfychin&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
