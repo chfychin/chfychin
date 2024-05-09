@@ -18,7 +18,7 @@
 - <a href="https://www.chfychin.cn"><img height="22" width="22" src="https://www.chfychin.cn/favicon.ico"></a>：个人网站
 - <a href="https://space.bilibili.com/3461572947085662"><img height="22" width="22" src="https://www.bilibili.com/favicon.ico"></a>：Bilibili主页
 - <a href="https://leetcode.cn/u/fomalhaut1998/"><img height="22" width="22" src="https://leetcode.cn/favicon.ico"></a>：LeetCode主页
-- <a href="https://codeforces.com/profile/chfychin/"><img height="22" width="22" src="https://pic.imgdb.cn/item/663c1f860ea9cb1403aa2068.png"></a>：codeforces主页
+- <a href="https://codeforces.com/profile/chfychin/"><img height="22" width="22" src="https://mark.chfychin.cn/mark_bed/codeforces.png"></a>：codeforces主页
 
 ### 主页访问量统计
 
