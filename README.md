@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:fomalhaut1998?theme=moebooru">
 
-##一只低调的猕猴桃-chfychin🥝<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
+## 一只低调的猕猴桃-chfychin🥝<img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
 
 ### 自我介绍
 
@@ -36,10 +36,12 @@
 ![git](https://img.shields.io/badge/-Git-%23ED5A47?style=flat&logo=git&logoColor=%23ffffff)
 ![vs代码](https://img.shields.io/badge/-VSCode-%230066B8?style=flat&logo=visual-studio-code)
 
+<!--
 ### 开源项目
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=chfychin&repo=DeleteSpace_and_Translation&theme=tokyonight)](https://github.com/chfychin/DeleteSpace_and_Translation)
 <br>
+-->
 
 ### 编程语言
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chfychin&layout=compact&theme=tokyonight)
