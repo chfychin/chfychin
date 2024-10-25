@@ -23,11 +23,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [数据结构-线性表（顺序表）](https://xingji.fun/posts/20241024/)
-- [【JavaSE基础】变量](https://xingji.fun/posts/10000/)
-- [数据结构-绪论](https://xingji.fun/posts/20240907/)
-- [【JavaSE基础】Java概述-章节作业](https://xingji.fun/posts/18951/)
-- [【JavaSE基础】Java 基础知识](https://xingji.fun/posts/64063/)
+- [2024 CCPC 郑州邀请赛暨河南省赛 题解](http://chfychin.cn/posts/9f4b8961.html)
+- [Jiangly算法模板收集](http://chfychin.cn/posts/4478d89.html)
+- [SQL](http://chfychin.cn/posts/4d712855.html)
+- [Office新版安装与激活](http://chfychin.cn/posts/db289af5.html)
+- [cpeditor](http://chfychin.cn/posts/aa1df803.html)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub账户信息统计](https://github-readme-stats.vercel.app/api?username=chfychin&show_icons=true&theme=tokyonight)                         ![GitHub 连续打卡](https://streak-stats.demolab.com/?user=chfychin)
