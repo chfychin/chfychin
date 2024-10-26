@@ -23,11 +23,7 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [2024 CCPC 郑州邀请赛暨河南省赛 题解](http://chfychin.cn/posts/9f4b8961.html)
-- [Jiangly算法模板收集](http://chfychin.cn/posts/4478d89.html)
-- [SQL](http://chfychin.cn/posts/4d712855.html)
-- [Office新版安装与激活](http://chfychin.cn/posts/db289af5.html)
-- [cpeditor](http://chfychin.cn/posts/aa1df803.html)
+
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub账户信息统计](https://github-readme-stats.vercel.app/api?username=chfychin&show_icons=true&theme=tokyonight)                         ![GitHub 连续打卡](https://streak-stats.demolab.com/?user=chfychin)
