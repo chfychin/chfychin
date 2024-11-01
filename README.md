@@ -23,11 +23,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [安知鱼主题修改背景](http://chfychin.cn/posts/null.html)
+- [免费域名注册us.kg&lpar;转载&rpar;](http://chfychin.cn/posts/24517.html)
+- [anzhiyu主题一图流](http://chfychin.cn/posts/29663.html)
+- [安知鱼主题修改背景](http://chfychin.cn/posts/4780.html)
 - [SQL](http://chfychin.cn/posts/4d712855.html)
 - [Office新版安装与激活](http://chfychin.cn/posts/db289af5.html)
-- [cpeditor](http://chfychin.cn/posts/aa1df803.html)
-- [激活Office和Windows](http://chfychin.cn/posts/51605980.html)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub账户信息统计](https://github-readme-stats.vercel.app/api?username=chfychin&show_icons=true&theme=tokyonight)                         ![GitHub 连续打卡](https://streak-stats.demolab.com/?user=chfychin)
