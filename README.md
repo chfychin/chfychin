@@ -23,11 +23,11 @@
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [喜提河南icpc金牌](http://chfychin.cn/posts/9e43cdf7.html)
-- [博客部署教程](http://chfychin.cn/posts/69b496a5.html)
-- [PicGo+Gitee搭建个人图床](http://chfychin.cn/posts/c6a2c78.html)
-- [免费域名注册us.kg&lpar;转载&rpar;](http://chfychin.cn/posts/24517.html)
-- [anzhiyu主题一图流](http://chfychin.cn/posts/29663.html)
+- [喜提河南icpc金牌](http://265832.xyz/posts/9e43cdf7.html)
+- [博客部署教程](http://265832.xyz/posts/69b496a5.html)
+- [PicGo+Gitee搭建个人图床](http://265832.xyz/posts/c6a2c78.html)
+- [免费域名注册us.kg&lpar;转载&rpar;](http://265832.xyz/posts/24517.html)
+- [anzhiyu主题一图流](http://265832.xyz/posts/29663.html)
 <!-- BLOG-POST-LIST:END -->
 
 ![GitHub账户信息统计](https://github-readme-stats.vercel.app/api?username=chfychin&show_icons=true&theme=tokyonight)                         ![GitHub 连续打卡](https://streak-stats.demolab.com/?user=chfychin)
